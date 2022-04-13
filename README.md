@@ -8,7 +8,7 @@ Users can register themselves into this app and allow them to sell or buy some s
 
 ## Implementation
 <h3>Wireframe</h3>
-<img src="webuysell_app/static/weBuySell_wireframe.png" width=300 height=700>
+<img src="webuysell_app/static/weBuySell_wireframe.png" width=600 height=1000>
 
 ## Features
 <ul>
